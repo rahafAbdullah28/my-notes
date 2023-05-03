@@ -1,15 +1,12 @@
 # my-notes
-### Iam **Rahaf**
-### Iam **23** years old 
-###  Iam a **UX\UI** designer 
+### “Hello, I am Rahaf Alabed, I have Bachelor's degree on Software Engineering and I am looking to be a professional UX/UI designer because i love this position ”.
+
+
+## I have some experience on  :
+- ***Java***
+- ***Flutter***
+- ***Python*** 
 <br>
 <br>
 
-## My ***"hobbies"*** are :
-- Basketball
-- Tennis 
-- Swimming 
-<br>
-<br>
-
-## [here is my **Github** link](https://github.com/rahafAbdullah28)
+## [and here is my **Github** link](https://github.com/rahafAbdullah28)
