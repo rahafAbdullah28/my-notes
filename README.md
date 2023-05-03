@@ -6,12 +6,9 @@
 - ***Java***
 - ***Flutter***
 - ***Python*** 
-<br>
-<br>
-<br>
+
 ![vs logo](https://logowik.com/content/uploads/images/microsoft-visual-studio2707.jpg)
-<br>
-<br>
+
 ## [and here is my **Github** link](https://github.com/rahafAbdullah28)
 <br>
 <br>
